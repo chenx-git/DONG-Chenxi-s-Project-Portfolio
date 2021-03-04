@@ -57,8 +57,6 @@
  * positive
  * neutral
  * negative 
-* daily sentiment trend lines 
-* word cloud (The top 100 words)
 
 * The most frequent words ![highest freq word](/images/3.1.png)
 
