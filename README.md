@@ -17,8 +17,8 @@ some data science project
 
 <li>The web app page view
   
-![screenshot](https://github.com/chenx-git/UCI-heart-disease-prediction-Web-App/blob/main/screenshot.png)
-![confusion matrix](https://github.com/chenx-git/UCI-heart-disease-prediction-Web-App/blob/main/confusion.png)
+![screenshot](https://github.com/chenx-git/chenx_Portfolio/blob/main/images/1.1.png)
+![confusion matrix](https://github.com/chenx-git/chenx_Portfolio/blob/main/images/1.2.png)
 
 
 # [Project 2: Medical-Notes-Entities-Extraction-and-Network-Generation](https://github.com/chenx-git/Medical-Notes-Entities-Extraction-and-Network-Visualization)
@@ -39,6 +39,6 @@ NLP package used--ScispaCy <br>Website: https://spacy.io/universe/project/scispa
 
 <li>Some network graphs:
   
-![overall network](https://github.com/eduhkdcx/Medical-notes-entities-extraction-and-network-visualization/blob/main/plots/whole.png)
-![abd sub network](https://github.com/eduhkdcx/Medical-notes-entities-extraction-and-network-visualization/blob/main/plots/abd.png)
-![duo sub network](https://github.com/eduhkdcx/Medical-notes-entities-extraction-and-network-visualization/blob/main/plots/duo.png)
+![overall network](https://github.com/chenx-git/chenx_Portfolio/blob/main/images/2.1.png)
+![abd sub network](https://github.com/chenx-git/chenx_Portfolio/blob/main/images/2.2.png)
+![duo sub network](https://github.com/chenx-git/chenx_Portfolio/blob/main/images/2.3.png)
