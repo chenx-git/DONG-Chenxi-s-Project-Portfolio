@@ -8,7 +8,8 @@
   * predictor filtering: XGBoost feature importance ranking (select top 4 factors)
   * pressure prediction: Matlab ANFIS toolbox
 * Tested by field data, achieved >90% accuracy
-
+* CO2-Crude Oil MMP <br> ![](/images/0_0.png)
+* Error <br> ![](/images/0_1.png)
 
 ## [Project 1: UCI-heart-disease-prediction-Streamlit-Web-App](https://github.com/chenx-git/UCI-heart-disease-prediction-Web-App)
 * A Web App built by Python Streamlit using [Kaggle UCI Heart Disease dataset](https://www.kaggle.com/ronitf/heart-disease-uci)
