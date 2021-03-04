@@ -14,20 +14,12 @@
 ## [Project 1: UCI-heart-disease-prediction-Streamlit-Web-App](https://github.com/chenx-git/UCI-heart-disease-prediction-Web-App)
 * A Web App built by Python Streamlit using [Kaggle UCI Heart Disease dataset](https://www.kaggle.com/ronitf/heart-disease-uci)
 
-  
 * The [Web app is deployed in HEROKU](https://uci-heart-disease-streamlit.herokuapp.com/) : https://uci-heart-disease-streamlit.herokuapp.com/
-
 * App contains 3 classifier (hyperparameters can be tuned by user):
-
   * SVM
-
   * Logistic Regression
-
   * Decision Tree
-
-* The web app page view
-  
-![](/images/1.PNG)
+* The web app page view<br>![](/images/1.PNG)
 
 
 ## [Project 2: Medical-Notes-Entities-Extraction-and-Network-Generation](https://github.com/chenx-git/Medical-Notes-Entities-Extraction-and-Network-Visualization)
