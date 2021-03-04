@@ -25,7 +25,7 @@
 
 * The web app page view
   
-![screenshot](https://github.com/chenx-git/chenx_Portfolio/blob/main/images/1.PNG)
+![](https://github.com/chenx-git/chenx_Portfolio/blob/main/images/1.PNG)
 
 
 
@@ -46,6 +46,6 @@
 
 * Some network graphs:
   
-![overall network](https://github.com/chenx-git/chenx_Portfolio/blob/main/images/2.1.PNG)
-![abd sub network](https://github.com/chenx-git/chenx_Portfolio/blob/main/images/2.2.png)
-![duo sub network](https://github.com/chenx-git/chenx_Portfolio/blob/main/images/2.3.PNG)
+![](https://github.com/chenx-git/chenx_Portfolio/blob/main/images/2.1.PNG)
+![](https://github.com/chenx-git/chenx_Portfolio/blob/main/images/2.2.png)
+![](https://github.com/chenx-git/chenx_Portfolio/blob/main/images/2.3.PNG)
