@@ -9,7 +9,7 @@
   * pressure prediction: Matlab ANFIS toolbox
 
 
-## [Project 1: UCI-heart-dosease-prediction-Streamlit-Web-App](https://github.com/chenx-git/UCI-heart-disease-prediction-Web-App)
+## [Project 1: UCI-heart-disease-prediction-Streamlit-Web-App](https://github.com/chenx-git/UCI-heart-disease-prediction-Web-App)
 * A Web App built by Python Streamlit using [Kaggle UCI Heart Disease dataset](https://www.kaggle.com/ronitf/heart-disease-uci)
 
   
