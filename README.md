@@ -9,11 +9,11 @@ some data science project
 
 <li>App contains 3 classifier (hyperparameters can be tuned by user):
 
-  <li>SVM
+  * SVM
 
-  <li>Logistic Regression
+  * Logistic Regression
 
-  <li>Decision Tree
+  * Decision Tree
 
 ### The web app page view
 ![](https://github.com/chenx-git/UCI-heart-disease-prediction-Web-App/blob/main/screenshot.png)<br>
