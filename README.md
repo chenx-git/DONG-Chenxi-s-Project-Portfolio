@@ -1,5 +1,5 @@
 # DONG Chenxi's Project Portfolio
-some data science project 
+Some data science projects 
 
 ## [Project 1: UCI-heart-dosease-prediction-Web-App](https://github.com/chenx-git/UCI-heart-disease-prediction-Web-App)
 * A Web App built by Python Streamlit using Kaggle UCI Heart Disease dataset:
