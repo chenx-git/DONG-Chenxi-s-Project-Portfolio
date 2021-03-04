@@ -5,7 +5,7 @@ Some data science projects
 * A Web App built by Python Streamlit using [Kaggle UCI Heart Disease dataset](https://www.kaggle.com/ronitf/heart-disease-uci)
 
   
-* The [Web app is deployed in HEROKU](https://uci-heart-disease-streamlit.herokuapp.com/):https://uci-heart-disease-streamlit.herokuapp.com/
+* The [Web app is deployed in HEROKU](https://uci-heart-disease-streamlit.herokuapp.com/): https://uci-heart-disease-streamlit.herokuapp.com/
 
 * App contains 3 classifier (hyperparameters can be tuned by user):
 
