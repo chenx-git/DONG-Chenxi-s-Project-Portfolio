@@ -1,5 +1,6 @@
 # DONG Chenxi's Project Portfolio
-Some data science projects 
+### Email: chenxdong3-c@my.cityu.edu.hk
+Some of my data science projects 
 
 ## [Project 0: CO2-Crude oil Minimum Miscibility Pressure prediction](https://researchportal.hw.ac.uk/en/publications/accurate-prediction-of-cosub2sub-minimum-miscibility-pressure-usi)
 * Python and Matlab toolbox
