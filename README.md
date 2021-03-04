@@ -52,21 +52,24 @@
 ## [Project 3: Twitter sentiment analysis related to Covid-19](https://github.com/chenx-git/COVID-19-tweets-sentiment-analysis)
 * Mainly use nltk library
 * Datasource: [https://www.kaggle.com/gpreda/covid19-tweets](https://www.kaggle.com/gpreda/covid19-tweets)
-* clean the text by:<br> remove url;<br>convert to lower case;<br>remove punctuations,stopwords(from nltk library package),numbers
+* clean the text by:<br> * remove url;<br>* convert to lower case;<br>* remove punctuations,stopwords(from nltk library package),numbers
 * use SentimentIntensityAnalyzer() to generate polarity value and hence label it as:
 * <li>-- positive<br><li>-- neutral<br><li>-- negative 
 * daily sentiment trend lines 
 * word cloud (The top 100 words)
 
+* The most frequent words
 ![highest freq word](/images/3.1.png)
 
+* 3 types of sentiment ratio
 ![sentiment](/images/3.2.png)
 
+* sentiment trend 
 ![trend](/images/3.3.png)
 
+* wordcloud
 ![wordcloud](/images/3.4.png)
 
 
 
-* Some network graphs:
 
