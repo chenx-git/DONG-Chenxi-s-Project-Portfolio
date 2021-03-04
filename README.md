@@ -1,4 +1,4 @@
-# DONG Chenxi's Project Portfolio
+# Project Portfolio
 ### Email: chenxdong3-c@my.cityu.edu.hk
 
 
