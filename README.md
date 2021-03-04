@@ -28,7 +28,6 @@
 ![](/images/1.PNG)
 
 
-
 ## [Project 2: Medical-Notes-Entities-Extraction-and-Network-Generation](https://github.com/chenx-git/Medical-Notes-Entities-Extraction-and-Network-Visualization)
 * Using ScispaCy to extract and identify entities in medical texts and generate networks visualizations
 * [Data Source](https://www.kaggle.com/c/medical-notes/data)<br>
@@ -49,3 +48,25 @@
 ![](/images/2.1.PNG)
 ![](/images/2.2.png)
 ![](/images/2.3.PNG)
+
+## [Project 3: Twitter sentiment analysis related to Covid-19](https://github.com/chenx-git/COVID-19-tweets-sentiment-analysis)
+* Mainly use nltk library
+* Datasource: [https://www.kaggle.com/gpreda/covid19-tweets](https://www.kaggle.com/gpreda/covid19-tweets)
+* clean the text by:<br> remove url;<br>convert to lower case;<br>remove punctuations,stopwords(from nltk library package),numbers
+* use SentimentIntensityAnalyzer() to generate polarity value and hence label it as:
+* <li>-- positive<br><li>-- neutral<br><li>-- negative 
+* daily sentiment trend lines 
+* word cloud (The top 100 words)
+
+![highest freq word](/images/3.1.png)
+
+![sentiment](/images/3.2.png)
+
+![trend](/images/3.3.png)
+
+![wordcloud](/images/3.4.png)
+
+
+
+* Some network graphs:
+
