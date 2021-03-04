@@ -38,6 +38,7 @@ NLP package used--ScispaCy <br>Website: https://spacy.io/universe/project/scispa
 
 
 <li>Some network graphs:
+  
 ![overall network](https://github.com/eduhkdcx/Medical-notes-entities-extraction-and-network-visualization/blob/main/plots/whole.png)
 ![abd sub network](https://github.com/eduhkdcx/Medical-notes-entities-extraction-and-network-visualization/blob/main/plots/abd.png)
 ![duo sub network](https://github.com/eduhkdcx/Medical-notes-entities-extraction-and-network-visualization/blob/main/plots/duo.png)
