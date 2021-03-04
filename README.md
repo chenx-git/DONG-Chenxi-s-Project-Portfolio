@@ -22,7 +22,7 @@ some data science project
 
 
 # [Project 2: Medical-Notes-Entities-Extraction-and-Network-Generation](https://github.com/chenx-git/Medical-Notes-Entities-Extraction-and-Network-Visualization)
-Using ScispaCy to extract and identify entities in medical texts and generate networks visualizations
+<li>Using ScispaCy to extract and identify entities in medical texts and generate networks visualizations
 <li>Data Source---https://www.kaggle.com/c/medical-notes/data
 NLP package used--ScispaCy <br>Website: https://spacy.io/universe/project/scispacy
 <li>Data format--text
