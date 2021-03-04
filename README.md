@@ -46,6 +46,6 @@
 
 * Some network graphs:
   
-![](https://github.com/chenx-git/chenx_Portfolio/blob/main/images/2.1.PNG)
-![](https://github.com/chenx-git/chenx_Portfolio/blob/main/images/2.2.png)
-![](https://github.com/chenx-git/chenx_Portfolio/blob/main/images/2.3.PNG)
+![](/images/2.1.PNG)
+![](/images/2.2.png)
+![](/images/2.3.PNG)
