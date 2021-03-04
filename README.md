@@ -17,8 +17,7 @@ some data science project
 
 * The web app page view
   
-![screenshot](https://github.com/chenx-git/chenx_Portfolio/blob/main/images/1.1.png)
-![confusion matrix](https://github.com/chenx-git/chenx_Portfolio/blob/main/images/1.2.png)
+![screenshot](https://github.com/chenx-git/chenx_Portfolio/blob/main/images/1.PNG)
 
 
 
@@ -39,6 +38,6 @@ NLP package used--ScispaCy <br>Website: https://spacy.io/universe/project/scispa
 
 * Some network graphs:
   
-![overall network](https://github.com/chenx-git/chenx_Portfolio/blob/main/images/2.1.png)
+![overall network](https://github.com/chenx-git/chenx_Portfolio/blob/main/images/2.1.PNG)
 ![abd sub network](https://github.com/chenx-git/chenx_Portfolio/blob/main/images/2.2.png)
-![duo sub network](https://github.com/chenx-git/chenx_Portfolio/blob/main/images/2.3.png)
+![duo sub network](https://github.com/chenx-git/chenx_Portfolio/blob/main/images/2.3.PNG)
