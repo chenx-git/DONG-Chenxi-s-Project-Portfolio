@@ -1,6 +1,13 @@
 # DONG Chenxi's Project Portfolio
 Some data science projects 
 
+## [Project 0: CO2-Crude oil Minimum Miscibility Pressure prediction](https://researchportal.hw.ac.uk/en/publications/accurate-prediction-of-cosub2sub-minimum-miscibility-pressure-usi)
+* Python and Matlab toolbox
+* A two stage model to predict pressure 
+  * predictor filtering: XGBoost feature importance ranking (select top 5 factors)
+  * pressure prediction: Matlab ANFIS toolbox
+
+
 ## [Project 1: UCI-heart-dosease-prediction-Web-App](https://github.com/chenx-git/UCI-heart-disease-prediction-Web-App)
 * A Web App built by Python Streamlit using [Kaggle UCI Heart Disease dataset](https://www.kaggle.com/ronitf/heart-disease-uci)
 
