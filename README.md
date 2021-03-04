@@ -21,6 +21,7 @@ some data science project
 ![confusion matrix](https://github.com/chenx-git/chenx_Portfolio/blob/main/images/1.2.png)
 
 
+
 # [Project 2: Medical-Notes-Entities-Extraction-and-Network-Generation](https://github.com/chenx-git/Medical-Notes-Entities-Extraction-and-Network-Visualization)
 <li>Using ScispaCy to extract and identify entities in medical texts and generate networks visualizations
 <li>Data Source---https://www.kaggle.com/c/medical-notes/data
