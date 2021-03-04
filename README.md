@@ -1,7 +1,7 @@
 # chenx_Portfolio
 some data science project 
 
-# [Project 1: UCI-heart-dosease-prediction-Web-App](https://github.com/chenx-git/UCI-heart-disease-prediction-Web-App)
+## [Project 1: UCI-heart-dosease-prediction-Web-App](https://github.com/chenx-git/UCI-heart-disease-prediction-Web-App)
 <li>A Web App built by Python Streamlit using Kaggle UCI Heart Disease dataset:
 <br>URL: https://www.kaggle.com/ronitf/heart-disease-uci
   
@@ -22,7 +22,7 @@ some data science project
 
 
 
-# [Project 2: Medical-Notes-Entities-Extraction-and-Network-Generation](https://github.com/chenx-git/Medical-Notes-Entities-Extraction-and-Network-Visualization)
+## [Project 2: Medical-Notes-Entities-Extraction-and-Network-Generation](https://github.com/chenx-git/Medical-Notes-Entities-Extraction-and-Network-Visualization)
 <li>Using ScispaCy to extract and identify entities in medical texts and generate networks visualizations
 <li>Data Source---https://www.kaggle.com/c/medical-notes/data
 NLP package used--ScispaCy <br>Website: https://spacy.io/universe/project/scispacy
