@@ -7,6 +7,7 @@
 * A two stage model to predict pressure 
   * predictor filtering: XGBoost feature importance ranking (select top 5 factors)
   * pressure prediction: Matlab ANFIS toolbox
+* Tested by field data, achieved >90% accuracy
 
 
 ## [Project 1: UCI-heart-disease-prediction-Streamlit-Web-App](https://github.com/chenx-git/UCI-heart-disease-prediction-Web-App)
@@ -53,7 +54,7 @@
 ## [Project 3: Twitter sentiment analysis related to Covid-19](https://github.com/chenx-git/COVID-19-tweets-sentiment-analysis)
 * Mainly use nltk library
 * Datasource: [https://www.kaggle.com/gpreda/covid19-tweets](https://www.kaggle.com/gpreda/covid19-tweets)
-* clean the text by:<br> * remove url;<br>* convert to lower case;<br>* remove punctuations,stopwords(from nltk library package),numbers
+* clean the text by:<br>  * remove url;<br>  * convert to lower case;<br>  * remove punctuations,stopwords(from nltk library package),numbers
 * use SentimentIntensityAnalyzer() to generate polarity value and hence label it as:
 
   * positive
