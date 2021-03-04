@@ -2,10 +2,10 @@
 Some data science projects 
 
 ## [Project 1: UCI-heart-dosease-prediction-Web-App](https://github.com/chenx-git/UCI-heart-disease-prediction-Web-App)
-* A Web App built by Python Streamlit using Kaggle UCI Heart Disease dataset:
-<br>URL: https://www.kaggle.com/ronitf/heart-disease-uci
+* A Web App built by Python Streamlit using [Kaggle UCI Heart Disease dataset](https://www.kaggle.com/ronitf/heart-disease-uci)
+
   
-* The app is deployed in HEROKU: https://uci-heart-disease-streamlit.herokuapp.com/
+* The [Web app is deployed in HEROKU](https://uci-heart-disease-streamlit.herokuapp.com/)
 
 * App contains 3 classifier (hyperparameters can be tuned by user):
 
@@ -23,7 +23,7 @@ Some data science projects
 
 ## [Project 2: Medical-Notes-Entities-Extraction-and-Network-Generation](https://github.com/chenx-git/Medical-Notes-Entities-Extraction-and-Network-Visualization)
 * Using ScispaCy to extract and identify entities in medical texts and generate networks visualizations
-* Data Source---https://www.kaggle.com/c/medical-notes/data
+* [Data Source](https://www.kaggle.com/c/medical-notes/data)
 NLP package used--ScispaCy <br>Website: https://spacy.io/universe/project/scispacy
 * Data format--text
   
