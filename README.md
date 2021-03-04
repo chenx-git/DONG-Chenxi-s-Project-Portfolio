@@ -15,6 +15,6 @@ some data science project
 
   * Decision Tree
 
-### The web app page view
+<li>The web app page view
 ![](https://github.com/chenx-git/UCI-heart-disease-prediction-Web-App/blob/main/screenshot.png)<br>
 ![](https://github.com/chenx-git/UCI-heart-disease-prediction-Web-App/blob/main/confusion.png)
