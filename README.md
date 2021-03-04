@@ -5,7 +5,7 @@
 ## [Project 0: CO2-Crude oil Minimum Miscibility Pressure prediction](https://researchportal.hw.ac.uk/en/publications/accurate-prediction-of-cosub2sub-minimum-miscibility-pressure-usi)
 * Python and Matlab toolbox
 * A two stage model to predict pressure 
-  * predictor filtering: XGBoost feature importance ranking (select top 5 factors)
+  * predictor filtering: XGBoost feature importance ranking (select top 4 factors)
   * pressure prediction: Matlab ANFIS toolbox
 * Tested by field data, achieved >90% accuracy
 
