@@ -32,7 +32,7 @@
 ## [Project 2: Medical-Notes-Entities-Extraction-and-Network-Generation](https://github.com/chenx-git/Medical-Notes-Entities-Extraction-and-Network-Visualization)
 * Using ScispaCy to extract and identify entities in medical texts and generate networks visualizations
 * [Data Source](https://www.kaggle.com/c/medical-notes/data)<br>
-* NLP package used--ScispaCy <br>Website: https://spacy.io/universe/project/scispacy
+* NLP package used--ScispaCy <br>Website: [https://spacy.io/universe/project/scispacy](https://spacy.io/universe/project/scispacy)
 * Data format--text data
   
   * Medical note text Example:
